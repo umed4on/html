@@ -1,0 +1,24 @@
+/* Селектор тега body – задает цвет фона*/
+body {
+  position: relative;
+  font-family: 'Lato-Regular', Arial, Helvetica, FreeSans, sans-serif;
+  background-color: #2f1e4a;
+}
+body {
+  line-height: 1;
+}
+body {
+  height: 100%;
+}
+/* Селектор именованного блока, устанавливает цвет текста*/
+#pretty_color {
+	color: green;
+}
+
+/* Селектор класса — задает шрифт */
+.pretty_font {
+  font-family: "Brush Script MT", cursive;
+}
+p {
+   color: white;
+}
